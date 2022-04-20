@@ -1,0 +1,40 @@
+.header{
+  padding: 51px 0 44px;
+  &__{
+
+    &wrapper{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    &list{
+      display: flex;
+      align-items: center;
+      column-gap: 45px;
+      &-item{
+        font-weight: 400;
+        font-size: 15px;
+        letter-spacing: 0.02em;
+      }
+      &-item.active{
+        color: #6E9C9F;
+        //font-size: 16px;
+      }
+    }
+    &links{
+      display: flex;
+      align-items: center;
+      column-gap: 67px;
+    }
+    &logo-icon{
+      width: 18px;
+      height: 25px;
+      margin-right: 14px;
+    }
+    &call-icon{
+      margin-right: 13px;
+    }
+
+
+  }
+}

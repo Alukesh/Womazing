@@ -1,0 +1,100 @@
+.footer{
+  background: #F1EADC;
+  padding: 105px 0 100px;
+
+
+  &__{
+    &wrapper{
+      display: flex;
+    }
+    &links{
+      margin-left: 80px;
+    }
+    &logo{
+      margin-bottom: 70px;
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 19px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      display: flex;
+      align-items: center;
+      column-gap: 15px;
+      &-icon{
+        width: 18px;
+        height: 25px;
+
+      }
+    }
+    &category{
+      margin-top: 40px;
+      display: flex;
+      flex-direction: column;
+      row-gap: 10px;
+      &-link{
+        font-weight: 400;
+        font-size: 13px;
+        letter-spacing: 0.02em;
+        transition: all .4s;
+        &:hover{
+          color: #6E9C9F;
+        }
+      }
+    }
+    &rights{
+      display: flex;
+      flex-direction: column;
+      row-gap: 10px;
+      &-link{
+        font-weight: 400;
+        font-size: 13px;
+        letter-spacing: 0.02em;
+      }
+    }
+    &link{
+      transition: all .4s;
+      font-weight: 400;
+      font-size: 15px;
+      letter-spacing: 0.02em;
+      &.active{
+        color: #6E9C9F;
+        font-size: 16px;
+      }
+    }
+    &list{
+      display: flex;
+      column-gap: 45px;
+    }
+    &contacts{
+      display: flex;
+      flex-direction: column;
+      row-gap: 32px;
+      margin-left: auto;
+      &-link{
+        display: flex;
+        flex-direction: column;
+        row-gap: 9px;
+        font-weight: 400;
+        font-size: 15px;
+        &_item{
+          transition: all .4s;
+          &:hover{
+            color: #6E9C9F;
+          }        }
+
+      }
+    }
+    &icons{
+      display: flex;
+    }
+    &right-icons{
+      display: flex;
+    }
+    &visa{
+      width: 68px;
+      height: 22px;
+    }
+
+  }
+
+}

@@ -1,0 +1,57 @@
+.newSeason{
+  display: flex;
+  padding: 0 0 54px;
+  justify-content: space-between;
+  &__{
+
+    &title{
+      max-width: 585px;
+      font-weight: 500;
+      font-size: 55px;
+      line-height: 110%;
+      letter-spacing: 0.02em;
+      color: #000000;
+      margin: 145px 0 45px;
+    }
+    &textblock{
+      max-width: 385px;
+    }
+    &subtitle{
+      max-width: 385px;
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 140%;
+      text-align: right;
+      letter-spacing: 0.02em;
+      color: #000000;
+      margin-bottom: 52px;
+    }
+    &btns{
+      text-align: right;
+      display: flex;
+      justify-content: flex-end;
+    }
+    &btn{
+      cursor: pointer;
+      height: 68px;
+      border: none;
+      font-weight: 400;
+      font-size: 17px;
+      letter-spacing: 0.02em;
+      color: #FFFFFF;
+    }
+    &open-shop{
+      background-color: #6E9C9F;
+      padding: 22px 50px;
+    }
+    &arrow{
+      padding: 20px 26px;
+    }
+
+    &img{
+      width: 434px;
+      height: 652px;
+
+    }
+  }
+}

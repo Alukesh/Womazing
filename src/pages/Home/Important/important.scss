@@ -1,0 +1,38 @@
+.important{
+  margin-bottom: 130px;
+  &__{
+
+    &title{
+      margin-bottom: 90px;
+      font-weight: 500;
+      font-size: 40px;
+      line-height: 110%;
+      letter-spacing: 0.02em;
+    }
+    &row{
+      display: flex;
+      justify-content: space-between;
+      column-gap: 20px;
+    }
+    &card{
+      width: calc(33% - 50px);
+      &-img{
+        margin-bottom: 37px;
+        height: 60px;
+        width: 60px;
+      }
+      &-title{
+        font-weight: 500;
+        font-size: 25px;
+        letter-spacing: 0.02em;
+        margin-bottom: 24px;
+      }
+      &-text{
+        font-weight: 500;
+        font-size: 17px;
+        letter-spacing: 0.02em;
+      }
+    }
+
+  }
+}

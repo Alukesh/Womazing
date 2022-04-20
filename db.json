@@ -1,0 +1,259 @@
+{
+  "users": [],
+  "closest": [
+    {
+      "id": 1,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","l","xl"],
+      "colors": ["white","yellow","green","blue","black"]
+    },
+    {
+      "id": 2,
+      "title": "Футболка KG",
+      "price": 29,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","xl"],
+      "colors": ["white","yellow","blue","black"]
+    },
+{
+      "id": 3,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","l","xl"],
+      "colors": ["white","yellow","green","blue","black"]
+    },
+    {
+      "id": 4,
+      "title": "Футболка KG",
+      "price": 29,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","xl"],
+      "colors": ["white","yellow","blue","black"]
+    },
+{
+      "id": 5,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","l","xl"],
+      "colors": ["white","yellow","green","blue","black"]
+    },
+    {
+      "id": 6,
+      "title": "Футболка KG",
+      "price": 29,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","xl"],
+      "colors": ["white","yellow","blue","black"]
+    },
+{
+      "id": 7,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","l","xl"],
+      "colors": ["white","yellow","green","blue","black"]
+    },
+    {
+      "id": 8,
+      "title": "Футболка KG",
+      "price": 29,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","xl"],
+      "colors": ["white","yellow","blue","black"]
+    },
+{
+      "id": 9,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","l","xl"],
+      "colors": ["white","yellow","green","blue","black"]
+    },
+{
+      "id": 10,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","l","xl"],
+      "colors": ["white","yellow","green","blue","black"]
+    },
+    {
+      "id": 11,
+      "title": "Футболка KG",
+      "price": 29,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","xl"],
+      "colors": ["white","yellow","blue","black"]
+    },
+{
+      "id": 12,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","l","xl"],
+      "colors": ["white","yellow","green","blue","black"]
+    },
+    {
+      "id": 13,
+      "title": "Футболка KG",
+      "price": 29,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","xl"],
+      "colors": ["white","yellow","blue","black"]
+    },
+{
+      "id": 14,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","l","xl"],
+      "colors": ["white","yellow","green","blue","black"]
+    },
+    {
+      "id": 15,
+      "title": "Футболка KG",
+      "price": 29,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","xl"],
+      "colors": ["white","yellow","blue","black"]
+    },
+{
+      "id": 16,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","l","xl"],
+      "colors": ["white","yellow","green","blue","black"]
+    },
+    {
+      "id": 17,
+      "title": "Футболка KG",
+      "price": 29,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","xl"],
+      "colors": ["white","yellow","blue","black"]
+    },
+{
+      "id": 18,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","l","xl"],
+      "colors": ["white","yellow","green","blue","black"]
+    },
+    {
+      "id": 19,
+      "title": "Футболка KG",
+      "price": 29,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","xl"],
+      "colors": ["white","yellow","blue","black"]
+    },
+{
+      "id": 20,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","l","xl"],
+      "colors": ["white","yellow","green","blue","black"]
+    },
+    {
+      "id": 21,
+      "title": "Футболка KG",
+      "price": 29,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","xl"],
+      "colors": ["white","yellow","blue","black"]
+    },
+    {
+      "id": 22,
+      "title": "Футболка KG",
+      "price": 29,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","xl"],
+      "colors": ["white","yellow","blue","black"]
+    },
+{
+      "id": 23,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","l","xl"],
+      "colors": ["white","yellow","green","blue","black"]
+    },
+    {
+      "id": 24,
+      "title": "Футболка KG",
+      "price": 29,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","xl"],
+      "colors": ["white","yellow","blue","black"]
+    },
+{
+      "id": 25,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","l","xl"],
+      "colors": ["white","yellow","green","blue","black"]
+    },
+    {
+      "id": 26,
+      "title": "Футболка KG",
+      "price": 29,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","xl"],
+      "colors": ["white","yellow","blue","black"]
+    },
+{
+      "id": 27,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","l","xl"],
+      "colors": ["white","yellow","green","blue","black"]
+    },
+    {
+      "id": 28,
+      "title": "Футболка KG",
+      "price": 29,
+      "image": "",
+      "category": "T-short",
+      "size": ["s","m","xl"],
+      "colors": ["white","yellow","blue","black"]
+    }
+
+
+  ]
+}

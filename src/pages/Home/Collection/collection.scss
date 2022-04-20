@@ -1,0 +1,68 @@
+.collection{
+  text-align: center;
+  padding: 130px 0 150px;
+  &__{
+
+    &title{
+      text-align-last: left;
+      margin-bottom: 92px;
+    }
+    &row{
+      margin-bottom: 70px;
+      display: flex;
+      justify-content: space-between;
+      column-gap: 15px;
+    }
+    &card{
+      cursor: pointer;
+      &-title{
+        margin: 24px 0  7px;
+        font-weight: 500;
+        font-size: 20px;
+        letter-spacing: 0.02em;
+        color: #000000;
+      }
+    }
+
+    &hover{
+      position: relative;
+    }
+    &arrow{
+      display: none;
+      justify-content: center;
+      align-items: center;
+      left: 0;
+      bottom: 6px;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      background: rgba(110, 156, 159, 0.64);
+      &.active{
+        display: flex;
+      }
+    }
+    &price{
+      display: flex;
+      justify-content: center;
+      column-gap: 10px;
+      font-weight: 500;
+      font-size: 15px;
+      letter-spacing: 0.02em;
+      color: #9C9C9C;
+      &-old{
+        text-decoration-line: line-through;
+      }
+    }
+    &btn{
+      cursor: pointer;
+      padding: 22px 50px;
+      font-weight: 400;
+      font-size: 17px;
+      letter-spacing: 0.02em;
+      color: #6E9C9F;
+      background-color: transparent;
+      border: 1px solid #6E9C9F;
+    }
+
+  }
+}

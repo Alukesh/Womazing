@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  color: inherit;
+  line-height: 140%;
+  font-family: Raleway,sans-serif;
+  font-style: normal;
+  scroll-behavior: smooth;
+}
+
+.container{
+  width: 100%;
+  max-width: 1120px;
+  padding: 5px;
+  margin: 0 auto;
+}
+//.link{
+//  transition: all .4s;
+//  &:hover{
+//    color: #6E9C9F;
+//  }
+//}
+html,body{
+  height: 100%;
+}
+#root{
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.main{
+  flex: 1 1 auto;
+}
+
+
+@import "Layout/Header/header";
+@import "Layout/Footer/footer";
