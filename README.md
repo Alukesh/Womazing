@@ -1,5 +1,6 @@
 I as taught on my courses have published this site on heroku to show most of our skills after 5 month. Finally this is done
-link https://woomazing.herokuapp.com/shop#header
+link https://woomazing.herokuapp.com/
+
 
 # Getting Started with Create React App
 
