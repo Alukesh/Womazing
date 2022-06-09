@@ -1,15 +1,17 @@
 I as taught on my courses have published this site on heroku to show most of our skills after 5 month. Finally this is done.
 Link https://woomazing.herokuapp.com/
 
-#in the list of what we have done 
+##in the list of what we have done 
 
 shop with fetch, GET, PUSH, PATCH responces
+
 full site language tranlation with i18next
 
 registrations and loging in
-with db jason database
 
 working cart & buy history
+with db jason database
+
 lastly pushing all to the heroku platform
 
 # Getting Started with Create React App
