@@ -5,7 +5,7 @@ Link https://woomazing.herokuapp.com/
 
 shop with fetch, GET, PUSH, PATCH responces
 
-full site language tranlation with i18next
+whole site language tranlation with i18next
 
 registrations and loging in
 
